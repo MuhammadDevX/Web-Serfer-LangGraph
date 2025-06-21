@@ -39,7 +39,7 @@ A Streamlit-based web application that provides an AI-powered assistant capable 
 
 1. **Run the application:**
    ```bash
-   streamlit run main.py
+   gradio main.py
    ```
 
 2. **Open your browser:**
@@ -57,7 +57,7 @@ The Web Surfer uses:
 - **LangGraph** for workflow orchestration
 - **Playwright** for web automation
 - **OpenAI GPT-4** for AI processing
-- **Streamlit** for the user interface
+- **gradio** for the user interface
 
 The system follows a workflow where:
 1. Your request is processed by an AI worker
@@ -79,7 +79,6 @@ The system follows a workflow where:
 - Provide clear success criteria
 - The assistant will ask questions if clarification is needed
 - Use the reset button to start fresh conversations
-- Check the sidebar for additional information and tips
 
 ## Requirements
 
