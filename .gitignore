@@ -1,0 +1,7 @@
+.env
+
+uv.lock
+
+.venv
+
+__pycache__
