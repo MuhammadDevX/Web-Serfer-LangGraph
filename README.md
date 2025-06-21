@@ -1,3 +1,9 @@
+---
+title: Web_Surfer
+app_file: app.py
+sdk: gradio
+sdk_version: 5.34.2
+---
 # Web Surfer - AI-Powered Web Assistant
 
 A Streamlit-based web application that provides an AI-powered assistant capable of browsing the web, extracting information, running Python code, and more.
