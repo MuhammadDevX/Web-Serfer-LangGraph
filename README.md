@@ -39,7 +39,7 @@ A Streamlit-based web application that provides an AI-powered assistant capable 
 
 1. **Run the application:**
    ```bash
-   gradio main.py
+   gradio app.py
    ```
 
 2. **Open your browser:**
